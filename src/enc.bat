@@ -1,0 +1,1 @@
+c:/Users/battistotti/Documents/GitHub/edfile/.venv/Scripts/python.exe C:\Users\battistotti\Documents\GitHub\edfile\src\main.py
