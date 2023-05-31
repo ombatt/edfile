@@ -6,4 +6,5 @@ INSTRUCTIONS:
 2) Once encrypted the original file will be deleted and a new encrypted file will be created with .enc extension
 3) Once decrypted the .enc file will be deleted and the original file will per saved
 
-It is possibile to convert in exe file with pyinstaller.
+- It is recommended to change the byte string "salt" in generateKey.py file. 
+- It is possibile to convert in exe file with pyinstaller.
