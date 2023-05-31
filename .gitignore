@@ -1,6 +1,11 @@
 /.venv
 /board.pdf.enc
+/board.pdf
 /key.key
 /note.txt
 /src/enc.bat
 /src/__pycache__
+/build
+/dist
+main.spec
+src/edl/__pycache__/encrypt.cpython-311.pyc
