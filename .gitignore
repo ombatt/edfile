@@ -8,4 +8,4 @@
 /build
 /dist
 main.spec
-src/edl/__pycache__/encrypt.cpython-311.pyc
+*.exe
