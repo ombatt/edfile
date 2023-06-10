@@ -9,3 +9,6 @@
 /dist
 main.spec
 *.exe
+.vscode/launch.json
+/upload
+/src/edl/__pycache__
